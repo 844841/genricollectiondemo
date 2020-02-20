@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\genricollectiondemo\genricollectiondemo\bin\Debug\genricollectiondemo.exe.config
+C:\Users\Admin\source\repos\genricollectiondemo\genricollectiondemo\bin\Debug\genricollectiondemo.exe
+C:\Users\Admin\source\repos\genricollectiondemo\genricollectiondemo\bin\Debug\genricollectiondemo.pdb
+C:\Users\Admin\source\repos\genricollectiondemo\genricollectiondemo\obj\Debug\genricollectiondemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\genricollectiondemo\genricollectiondemo\obj\Debug\genricollectiondemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\genricollectiondemo\genricollectiondemo\obj\Debug\genricollectiondemo.exe
+C:\Users\Admin\source\repos\genricollectiondemo\genricollectiondemo\obj\Debug\genricollectiondemo.pdb
